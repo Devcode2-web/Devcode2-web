@@ -23,7 +23,7 @@
 - Dashboards e indicadores com **Excel e Power BI**
 - Consultas e estruturação de **SQL**
 - Produtividade e colaboração com **Google Workspace**
-- Gravação e criação de **treinamentos interativos**
+
 
 ---
 
@@ -40,4 +40,4 @@
 
 ### 🎯 Treinamento Google Workspace (Em Desenvolvimento)
 📌 Plataforma interativa com vídeo-aulas, guias práticos e navegação dinâmica <br>
-🛠 Tecnologias: HTML,
+🛠 Tecnologias: HTML,CSS,JSON E JAVASCRIPT
